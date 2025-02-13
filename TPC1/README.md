@@ -5,7 +5,7 @@
 ## Autor  
 **Nome:** Diogo Andrade Fernandes 
 **Número:** A100746
-![Foto do Autor](imgs/foto-id.jpg)  
+<img src="./imgs/foto.jpg" alt="Foto do Autor" width="150px">
 
 ## Resumo  
 - O objetivo deste trabalho foi desenvolver um programa em Python que soma números encontrados num texto de entrada.  

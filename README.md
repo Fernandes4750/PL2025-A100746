@@ -3,7 +3,7 @@
 ## Autor  
 **Nome:** Diogo Andrade Fernandes
 **Número:** A100746
-![Foto do Autor](imgs/foto-id.jpg)  
+<img src="imgs/foto.jpg" alt="Foto do Autor" width="150px">
 
 ## Descrição do Repositório  
 Este repositório foi criado para a unidade curricular **Processamento de Linguagens (PL2025)**.  
