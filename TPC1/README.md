@@ -4,7 +4,9 @@
 
 ## Autor  
 **Nome:** Diogo Andrade Fernandes 
+
 **Número:** A100746
+
 ![Foto do Autor](../imgs/foto-id.jpg)  
 
 ## Resumo  
