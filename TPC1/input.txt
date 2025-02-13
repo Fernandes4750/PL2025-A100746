@@ -1,4 +1,4 @@
-123 abc 456 On 78 OfF 90 100 oN 200 = 
-oFf 50 on 75 OfF = 25 on 30 40
-ON 10 20 Off 5 on 15 = 
-100 On 200 OFf 300 On 400 500
+123 abc 456 asd On 78 OfF 90 100 dasd oN 200 = 
+oFf zxc 50 on cde 75 OfF = 25 on 30 40
+ON qwe 10 20 Off qwe 5 on 15 = 
+100 abc On 200 OFf 300 On fgh 400 500
