@@ -22,7 +22,9 @@ O objetivo deste trabalho foi desenvolver um **conversor de Markdown para HTML**
   2. Item 2
   3. Item 3
   ```
+
   convertidas em:
+  ```html
   <ol>
     <li>Item 1</li>
     <li>Item 2</li>
