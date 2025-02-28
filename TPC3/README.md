@@ -1,6 +1,6 @@
 # **Relatório: Conversor de Markdown para HTML**
 
-**Data:** 21 de fevereiro de 2025  
+**Data:** 28 de fevereiro de 2025  
 
 ## **Autor**  
 **Nome:** Diogo Andrade Fernandes  
